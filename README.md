@@ -1,1 +1,18 @@
-# CS2
+##Simple Grade Calculator
+
+Project description
+
+
+
+
+
+
+
+
+
+
+
+##CREDITS 
+Atup
+Cuevo
+Escala
