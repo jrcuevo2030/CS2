@@ -1,4 +1,4 @@
-##Simple Grade Calculator
+Simple Grade Calculator 
 
 Project description
 
@@ -12,7 +12,7 @@ Project description
 
 
 
-##CREDITS 
+CREDITS 📜📃
 Atup
 Cuevo
 Escala
